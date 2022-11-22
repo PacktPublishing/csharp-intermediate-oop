@@ -9,6 +9,7 @@ namespace CMS.Application
         {
             Student student = new Student();
             Staff staff = new Staff();
+            Course computerScience = new Course();
 
             
         }

@@ -1,8 +1,6 @@
-using System;
-
 namespace CMS.UI.Models
 {
-    public class Course
+    public class CourseSubject
     {
         
     }
